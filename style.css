@@ -1,0 +1,8 @@
+ul.ui-sortable li {
+    text-decoration: none;
+    border: solid 1px #ccc;
+    float: left;
+    padding: 2px;
+    margin-left: 5px;
+    list-style-type: none;
+}
